@@ -1,0 +1,24 @@
+body {
+  font-family: 'Gloria Hallelujah', cursive;
+  background-color: #91a19b;	
+  margin:10px;
+}
+#location, #distance {
+	padding:5px;
+}
+
+#watch, #clearWatch {
+  background-color: #7e504f;
+  border: 1px solid #7e504f;
+  border-radius: 4px;
+  padding: 1em;
+  color: #b8a69a;
+  font-size: 1rem;
+}
+
+#map {
+	margin:5px;
+	width:760px;
+	height:400px;
+	border:1px solid #000;
+}
